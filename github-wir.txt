@@ -1,0 +1,5 @@
+untuk belajar github harus mengetahui beberapa terminologi berikut :
+1.Repository
+2.Commit
+3.Branch
+4.Merge
