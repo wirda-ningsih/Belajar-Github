@@ -5,3 +5,5 @@ untuk belajar github harus mengetahui beberapa terminologi berikut :
 4.Merge
 5.clone
 6.conflict
+7.pull
+8.push
