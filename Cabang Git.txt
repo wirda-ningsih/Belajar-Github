@@ -4,3 +4,4 @@ untuk memahami cabang Gif maka diperlukan
 3.proses marge
 4.proses pull
 5.proses conflict
+6.proses push
